@@ -1,0 +1,229 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>Portfolio</title>
+    <link href="https://sarahwilsonconsulting.github.io/publiiportfolio/feed.xml" rel="self" />
+    <link href="https://sarahwilsonconsulting.github.io/publiiportfolio" />
+    <updated>2026-07-23T17:39:30-04:00</updated>
+    <author>
+        <name>Sarah Wilson</name>
+    </author>
+    <id>https://sarahwilsonconsulting.github.io/publiiportfolio</id>
+
+    <entry>
+        <title>Website Redesign</title>
+        <author>
+            <name>Sarah Wilson</name>
+        </author>
+        <link href="https://sarahwilsonconsulting.github.io/publiiportfolio/website-redesign.html"/>
+        <id>https://sarahwilsonconsulting.github.io/publiiportfolio/website-redesign.html</id>
+        <media:content url="https://sarahwilsonconsulting.github.io/publiiportfolio/media/posts/4/Designer-mockup.png" medium="image" />
+
+        <updated>2026-07-22T13:40:00-04:00</updated>
+            <summary type="html">
+                <![CDATA[
+                        <img src="https://sarahwilsonconsulting.github.io/publiiportfolio/media/posts/4/Designer-mockup.png" alt="" />
+                    Sulema created her own website using Canva. Was it bad?... Not exactly. It wasn't very aligned with her actual design&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://sarahwilsonconsulting.github.io/publiiportfolio/media/posts/4/Designer-mockup.png" class="type:primaryImage" alt="" /></p>
+                <figure class="post__image"><img loading="lazy"  src="https://sarahwilsonconsulting.github.io/publiiportfolio/media/posts/4/Designer-mockup-2.png" alt="" width="1366" height="768" sizes="(min-width: 37.5em) 1600px, 80vw" srcset="https://sarahwilsonconsulting.github.io/publiiportfolio/media/posts/4/responsive/Designer-mockup-2-xs.png 384w ,https://sarahwilsonconsulting.github.io/publiiportfolio/media/posts/4/responsive/Designer-mockup-2-sm.png 600w ,https://sarahwilsonconsulting.github.io/publiiportfolio/media/posts/4/responsive/Designer-mockup-2-md.png 768w ,https://sarahwilsonconsulting.github.io/publiiportfolio/media/posts/4/responsive/Designer-mockup-2-lg.png 1200w ,https://sarahwilsonconsulting.github.io/publiiportfolio/media/posts/4/responsive/Designer-mockup-2-xl.png 1600w"></figure>
+<p> </p>
+<h3>Backstory:</h3>
+<p>Sulema created her own website using Canva. Was it bad?... Not exactly. It wasn't very aligned with her actual design aesthetic or how she wanted to present herself to clients. It also looked really bad on mobile devices. Most visitors to your website are on their phones. The site needed a complete overhaul. <span style="font-size: inherit;">She's worked on high profile projects, her website should reflect that.</span></p>
+<p>The original website was simply a contact form with a few images. I upgraded the site to also include a <strong>portfolio and photo gallery</strong> for some feature projects that really showcased her expertise while giving clients an idea of what it looks like to work with her. I gave it a much cleaner aesthetic and layout as well as a <strong>mobile optimized design</strong>. Instead of being embarrassed to send clients to her website she can feel proud that her new site reflects her professionalism. </p>
+<p> </p>
+<h3>Before: Computer View</h3>
+<figure class="post__image"><img loading="lazy"  src="https://sarahwilsonconsulting.github.io/publiiportfolio/media/posts/4/sulemamarche-before.png" alt="" width="1600" height="2338" sizes="(min-width: 37.5em) 1600px, 80vw" srcset="https://sarahwilsonconsulting.github.io/publiiportfolio/media/posts/4/responsive/sulemamarche-before-xs.png 384w ,https://sarahwilsonconsulting.github.io/publiiportfolio/media/posts/4/responsive/sulemamarche-before-sm.png 600w ,https://sarahwilsonconsulting.github.io/publiiportfolio/media/posts/4/responsive/sulemamarche-before-md.png 768w ,https://sarahwilsonconsulting.github.io/publiiportfolio/media/posts/4/responsive/sulemamarche-before-lg.png 1200w ,https://sarahwilsonconsulting.github.io/publiiportfolio/media/posts/4/responsive/sulemamarche-before-xl.png 1600w"></figure>
+<p> </p>
+<p>Mobile View:</p>
+<div class="gallery-wrapper"><div class="gallery" data-is-empty="false" data-translation="Add images" data-columns="3">
+<figure class="gallery__item"><a href="https://sarahwilsonconsulting.github.io/publiiportfolio/media/posts/4/gallery/iPhone-17-1784842603373.jpeg" data-size="590x1278"><img loading="lazy" src="https://sarahwilsonconsulting.github.io/publiiportfolio/media/posts/4/gallery/iPhone-17-1784842603373-thumbnail.jpeg" alt="" width="590" height="1278"></a></figure>
+<figure class="gallery__item"><a href="https://sarahwilsonconsulting.github.io/publiiportfolio/media/posts/4/gallery/iPhone-17-1784842639725.jpeg" data-size="590x1278"><img loading="lazy" src="https://sarahwilsonconsulting.github.io/publiiportfolio/media/posts/4/gallery/iPhone-17-1784842639725-thumbnail.jpeg" alt="" width="590" height="1278"></a></figure>
+<figure class="gallery__item"><a href="https://sarahwilsonconsulting.github.io/publiiportfolio/media/posts/4/gallery/iPhone-17-1784842659521.jpeg" data-size="590x1278"><img loading="lazy" src="https://sarahwilsonconsulting.github.io/publiiportfolio/media/posts/4/gallery/iPhone-17-1784842659521-thumbnail.jpeg" alt="" width="590" height="1278"></a></figure>
+</div></div>
+<p> </p>
+<h3>After:</h3>
+<div class="gallery-wrapper"><div class="gallery" data-is-empty="false" data-translation="Add images" data-columns="3">
+<figure class="gallery__item"><a href="https://sarahwilsonconsulting.github.io/publiiportfolio/media/posts/4/gallery/webredesign.gif" data-size="1920x1080"><img loading="lazy" src="https://sarahwilsonconsulting.github.io/publiiportfolio/media/posts/4/gallery/webredesign.gif" alt=""></a></figure>
+</div></div>
+<div class="gallery-wrapper"><div class="gallery" data-is-empty="false" data-translation="Add images" data-columns="2">
+<figure class="gallery__item"><a href="https://sarahwilsonconsulting.github.io/publiiportfolio/media/posts/4/gallery/MacBook-Pro-1784837195391.jpeg" data-size="2133x1303"><img loading="lazy" src="https://sarahwilsonconsulting.github.io/publiiportfolio/media/posts/4/gallery/MacBook-Pro-1784837195391-thumbnail.jpeg" alt="" width="768" height="469"></a></figure>
+<figure class="gallery__item"><a href="https://sarahwilsonconsulting.github.io/publiiportfolio/media/posts/4/gallery/MacBook-Pro-1784837215995.jpeg" data-size="2132x1304"><img loading="lazy" src="https://sarahwilsonconsulting.github.io/publiiportfolio/media/posts/4/gallery/MacBook-Pro-1784837215995-thumbnail.jpeg" alt="" width="768" height="470"></a></figure>
+<figure class="gallery__item"><a href="https://sarahwilsonconsulting.github.io/publiiportfolio/media/posts/4/gallery/MacBook-Pro-1784837226825.jpeg" data-size="2138x1306"><img loading="lazy" src="https://sarahwilsonconsulting.github.io/publiiportfolio/media/posts/4/gallery/MacBook-Pro-1784837226825-thumbnail.jpeg" alt="" width="768" height="469"></a></figure>
+<figure class="gallery__item"><a href="https://sarahwilsonconsulting.github.io/publiiportfolio/media/posts/4/gallery/MacBook-Pro-1784837240980.jpeg" data-size="2145x1311"><img loading="lazy" src="https://sarahwilsonconsulting.github.io/publiiportfolio/media/posts/4/gallery/MacBook-Pro-1784837240980-thumbnail.jpeg" alt="" width="768" height="469"></a></figure>
+<figure class="gallery__item"><a href="https://sarahwilsonconsulting.github.io/publiiportfolio/media/posts/4/gallery/MacBook-Pro-1784837250003.jpeg" data-size="2142x1307"><img loading="lazy" src="https://sarahwilsonconsulting.github.io/publiiportfolio/media/posts/4/gallery/MacBook-Pro-1784837250003-thumbnail.jpeg" alt="" width="768" height="469"></a></figure>
+<figure class="gallery__item"><a href="https://sarahwilsonconsulting.github.io/publiiportfolio/media/posts/4/gallery/MacBook-Pro-1784838726215.jpeg" data-size="2136x1301"><img loading="lazy" src="https://sarahwilsonconsulting.github.io/publiiportfolio/media/posts/4/gallery/MacBook-Pro-1784838726215-thumbnail.jpeg" alt="" width="768" height="468"></a></figure>
+<figure class="gallery__item"><a href="https://sarahwilsonconsulting.github.io/publiiportfolio/media/posts/4/gallery/MacBook-Pro-1784838732783.jpeg" data-size="2135x1307"><img loading="lazy" src="https://sarahwilsonconsulting.github.io/publiiportfolio/media/posts/4/gallery/MacBook-Pro-1784838732783-thumbnail.jpeg" alt="" width="768" height="470"></a></figure>
+<figure class="gallery__item"><a href="https://sarahwilsonconsulting.github.io/publiiportfolio/media/posts/4/gallery/MacBook-Pro-1784838751145.jpeg" data-size="2135x1310"><img loading="lazy" src="https://sarahwilsonconsulting.github.io/publiiportfolio/media/posts/4/gallery/MacBook-Pro-1784838751145-thumbnail.jpeg" alt="" width="768" height="471"></a></figure>
+</div></div>
+<p> </p>
+<h3>Responsive Mobile View:</h3>
+<div class="gallery-wrapper"><div class="gallery" data-is-empty="false" data-translation="Add images" data-columns="3">
+<figure class="gallery__item"><a href="https://sarahwilsonconsulting.github.io/publiiportfolio/media/posts/4/gallery/iPhone-17-1784837376734.jpeg" data-size="589x1223"><img loading="lazy" src="https://sarahwilsonconsulting.github.io/publiiportfolio/media/posts/4/gallery/iPhone-17-1784837376734-thumbnail.jpeg" alt="" width="589" height="1223"></a></figure>
+<figure class="gallery__item"><a href="https://sarahwilsonconsulting.github.io/publiiportfolio/media/posts/4/gallery/iPhone-17-1784837391590.jpeg" data-size="589x1233"><img loading="lazy" src="https://sarahwilsonconsulting.github.io/publiiportfolio/media/posts/4/gallery/iPhone-17-1784837391590-thumbnail.jpeg" alt="" width="589" height="1233"></a></figure>
+<figure class="gallery__item"><a href="https://sarahwilsonconsulting.github.io/publiiportfolio/media/posts/4/gallery/iPhone-17-1784837398043.jpeg" data-size="590x1243"><img loading="lazy" src="https://sarahwilsonconsulting.github.io/publiiportfolio/media/posts/4/gallery/iPhone-17-1784837398043-thumbnail.jpeg" alt="" width="590" height="1243"></a></figure>
+<figure class="gallery__item"><a href="https://sarahwilsonconsulting.github.io/publiiportfolio/media/posts/4/gallery/iPhone-17-1784837407003.jpeg" data-size="589x1232"><img loading="lazy" src="https://sarahwilsonconsulting.github.io/publiiportfolio/media/posts/4/gallery/iPhone-17-1784837407003-thumbnail.jpeg" alt="" width="589" height="1232"></a></figure>
+<figure class="gallery__item"><a href="https://sarahwilsonconsulting.github.io/publiiportfolio/media/posts/4/gallery/iPhone-17-1784837412895.jpeg" data-size="589x1239"><img loading="lazy" src="https://sarahwilsonconsulting.github.io/publiiportfolio/media/posts/4/gallery/iPhone-17-1784837412895-thumbnail.jpeg" alt="" width="589" height="1239"></a></figure>
+<figure class="gallery__item"><a href="https://sarahwilsonconsulting.github.io/publiiportfolio/media/posts/4/gallery/iPhone-17-1784837417871.jpeg" data-size="589x1246"><img loading="lazy" src="https://sarahwilsonconsulting.github.io/publiiportfolio/media/posts/4/gallery/iPhone-17-1784837417871-thumbnail.jpeg" alt="" width="589" height="1246"></a></figure>
+<figure class="gallery__item"><a href="https://sarahwilsonconsulting.github.io/publiiportfolio/media/posts/4/gallery/iPhone-17-1784837433002.jpeg" data-size="589x1230"><img loading="lazy" src="https://sarahwilsonconsulting.github.io/publiiportfolio/media/posts/4/gallery/iPhone-17-1784837433002-thumbnail.jpeg" alt="" width="589" height="1230"></a></figure>
+<figure class="gallery__item"><a href="https://sarahwilsonconsulting.github.io/publiiportfolio/media/posts/4/gallery/iPhone-17-1784837447540.jpeg" data-size="589x1243"><img loading="lazy" src="https://sarahwilsonconsulting.github.io/publiiportfolio/media/posts/4/gallery/iPhone-17-1784837447540-thumbnail.jpeg" alt="" width="589" height="1243"></a></figure>
+<figure class="gallery__item"><a href="https://sarahwilsonconsulting.github.io/publiiportfolio/media/posts/4/gallery/iPhone-17-1784837455941.jpeg" data-size="589x1242"><img loading="lazy" src="https://sarahwilsonconsulting.github.io/publiiportfolio/media/posts/4/gallery/iPhone-17-1784837455941-thumbnail.jpeg" alt="" width="589" height="1242"></a></figure>
+<figure class="gallery__item"><a href="https://sarahwilsonconsulting.github.io/publiiportfolio/media/posts/4/gallery/iPhone-17-1784838666899.jpeg" data-size="589x1228"><img loading="lazy" src="https://sarahwilsonconsulting.github.io/publiiportfolio/media/posts/4/gallery/iPhone-17-1784838666899-thumbnail.jpeg" alt="" width="589" height="1228"></a></figure>
+<figure class="gallery__item"><a href="https://sarahwilsonconsulting.github.io/publiiportfolio/media/posts/4/gallery/iPhone-17-1784838675862.jpeg" data-size="589x1240"><img loading="lazy" src="https://sarahwilsonconsulting.github.io/publiiportfolio/media/posts/4/gallery/iPhone-17-1784838675862-thumbnail.jpeg" alt="" width="589" height="1240"></a></figure>
+<figure class="gallery__item"><a href="https://sarahwilsonconsulting.github.io/publiiportfolio/media/posts/4/gallery/iPhone-17-1784838689204.jpeg" data-size="589x1175"><img loading="lazy" src="https://sarahwilsonconsulting.github.io/publiiportfolio/media/posts/4/gallery/iPhone-17-1784838689204-thumbnail.jpeg" alt="" width="589" height="1175"></a></figure>
+</div></div>
+<p> </p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Logo Redesign</title>
+        <author>
+            <name>Sarah Wilson</name>
+        </author>
+        <link href="https://sarahwilsonconsulting.github.io/publiiportfolio/logo-redesign.html"/>
+        <id>https://sarahwilsonconsulting.github.io/publiiportfolio/logo-redesign.html</id>
+        <media:content url="https://sarahwilsonconsulting.github.io/publiiportfolio/media/posts/3/before-after.jpg" medium="image" />
+
+        <updated>2026-07-21T13:43:09-04:00</updated>
+            <summary type="html">
+                <![CDATA[
+                        <img src="https://sarahwilsonconsulting.github.io/publiiportfolio/media/posts/3/before-after.jpg" alt="" />
+                    Webbs wanted to become a serious competitor for brands like Crumble and Great American. One major issue was their logo&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://sarahwilsonconsulting.github.io/publiiportfolio/media/posts/3/before-after.jpg" class="type:primaryImage" alt="" /></p>
+                <p>Webbs wanted to become a serious competitor for brands like Crumble and Great American. One major issue was their logo and branding didn't feel like it really matched their target audience. The goal was to feel warm and inviting while still feeling polished and more premium.</p>
+<p>While designing they realized the needed a new brochure created to reflect their new pricing and branding.</p>
+<p> </p>
+<h3>Before:</h3>
+<figure class="post__image"><img loading="lazy"  src="https://sarahwilsonconsulting.github.io/publiiportfolio/media/posts/3/logo.png" alt="" width="1920" height="1080" sizes="(min-width: 37.5em) 1600px, 80vw" srcset="https://sarahwilsonconsulting.github.io/publiiportfolio/media/posts/3/responsive/logo-xs.png 384w ,https://sarahwilsonconsulting.github.io/publiiportfolio/media/posts/3/responsive/logo-sm.png 600w ,https://sarahwilsonconsulting.github.io/publiiportfolio/media/posts/3/responsive/logo-md.png 768w ,https://sarahwilsonconsulting.github.io/publiiportfolio/media/posts/3/responsive/logo-lg.png 1200w ,https://sarahwilsonconsulting.github.io/publiiportfolio/media/posts/3/responsive/logo-xl.png 1600w"></figure>
+<p> </p>
+<h3>After:</h3>
+<figure class="post__image"><img loading="lazy"  src="https://sarahwilsonconsulting.github.io/publiiportfolio/media/posts/3/Webbs-brown.jpg" alt="" width="1583" height="1075" sizes="(min-width: 37.5em) 1600px, 80vw" srcset="https://sarahwilsonconsulting.github.io/publiiportfolio/media/posts/3/responsive/Webbs-brown-xs.jpg 384w ,https://sarahwilsonconsulting.github.io/publiiportfolio/media/posts/3/responsive/Webbs-brown-sm.jpg 600w ,https://sarahwilsonconsulting.github.io/publiiportfolio/media/posts/3/responsive/Webbs-brown-md.jpg 768w ,https://sarahwilsonconsulting.github.io/publiiportfolio/media/posts/3/responsive/Webbs-brown-lg.jpg 1200w ,https://sarahwilsonconsulting.github.io/publiiportfolio/media/posts/3/responsive/Webbs-brown-xl.jpg 1600w"></figure>
+<div class="gallery-wrapper"><div class="gallery" data-is-empty="false" data-translation="Add images" data-columns="2">
+<figure class="gallery__item"><a href="https://sarahwilsonconsulting.github.io/publiiportfolio/media/posts/3/gallery/before-after.jpg" data-size="1920x1080"><img loading="lazy" src="https://sarahwilsonconsulting.github.io/publiiportfolio/media/posts/3/gallery/before-after-thumbnail.jpg" alt="Before and after transformation" width="768" height="432"></a></figure>
+<figure class="gallery__item"><a href="https://sarahwilsonconsulting.github.io/publiiportfolio/media/posts/3/gallery/variations.jpg" data-size="1920x1080"><img loading="lazy" src="https://sarahwilsonconsulting.github.io/publiiportfolio/media/posts/3/gallery/variations-thumbnail.jpg" alt="Logo Variations" width="768" height="432"></a></figure>
+<figure class="gallery__item"><a href="https://sarahwilsonconsulting.github.io/publiiportfolio/media/posts/3/gallery/Webbs-Copy.png" data-size="1920x1080"><img loading="lazy" src="https://sarahwilsonconsulting.github.io/publiiportfolio/media/posts/3/gallery/Webbs-Copy-thumbnail.png" alt="Alternate logo for darker backgrounds" width="768" height="432"></a></figure>
+<figure class="gallery__item"><a href="https://sarahwilsonconsulting.github.io/publiiportfolio/media/posts/3/gallery/colorpalette.jpg" data-size="1920x1080"><img loading="lazy" src="https://sarahwilsonconsulting.github.io/publiiportfolio/media/posts/3/gallery/colorpalette-thumbnail.jpg" alt="Custom Color Palette with Pantone, Hex codes, CMYK, as well as RGB" width="768" height="432"></a></figure>
+<figure class="gallery__item"><a href="https://sarahwilsonconsulting.github.io/publiiportfolio/media/posts/3/gallery/Screenshot-2026-07-21-133328.png" data-size="1053x1113"><img loading="lazy" src="https://sarahwilsonconsulting.github.io/publiiportfolio/media/posts/3/gallery/Screenshot-2026-07-21-133328-thumbnail.png" alt="" width="768" height="812"></a></figure>
+<figure class="gallery__item"><a href="https://sarahwilsonconsulting.github.io/publiiportfolio/media/posts/3/gallery/pattern-light.png" data-size="1920x1080"><img loading="lazy" src="https://sarahwilsonconsulting.github.io/publiiportfolio/media/posts/3/gallery/pattern-light-thumbnail.png" alt="" width="768" height="432"></a></figure>
+<figure class="gallery__item"><a href="https://sarahwilsonconsulting.github.io/publiiportfolio/media/posts/3/gallery/Webbs-brown-patern-Copy.jpg" data-size="1920x1080"><img loading="lazy" src="https://sarahwilsonconsulting.github.io/publiiportfolio/media/posts/3/gallery/Webbs-brown-patern-Copy-thumbnail.jpg" alt="" width="768" height="432"></a></figure>
+<figure class="gallery__item"><a href="https://sarahwilsonconsulting.github.io/publiiportfolio/media/posts/3/gallery/mockups.png" data-size="1920x1080"><img loading="lazy" src="https://sarahwilsonconsulting.github.io/publiiportfolio/media/posts/3/gallery/mockups-thumbnail.png" alt="Mockups for uniforms and packaging" width="768" height="432"></a></figure>
+<figure class="gallery__item"><a href="https://sarahwilsonconsulting.github.io/publiiportfolio/media/posts/3/gallery/brochure-front.png" data-size="1999x1545"><img loading="lazy" src="https://sarahwilsonconsulting.github.io/publiiportfolio/media/posts/3/gallery/brochure-front-thumbnail.png" alt="New Menu/ Tri-fold Brochure side 1" width="768" height="594"></a>
+<figcaption>front</figcaption>
+</figure>
+<figure class="gallery__item"><a href="https://sarahwilsonconsulting.github.io/publiiportfolio/media/posts/3/gallery/brochure-inside.png" data-size="1999x1545"><img loading="lazy" src="https://sarahwilsonconsulting.github.io/publiiportfolio/media/posts/3/gallery/brochure-inside-thumbnail.png" alt="New Menu/ Tri-fold Brochure side 2" width="768" height="594"></a>
+<figcaption>back</figcaption>
+</figure>
+<figure class="gallery__item"><a href="https://sarahwilsonconsulting.github.io/publiiportfolio/media/posts/3/gallery/brochure.png" data-size="1920x1080"><img loading="lazy" src="https://sarahwilsonconsulting.github.io/publiiportfolio/media/posts/3/gallery/brochure-thumbnail.png" alt="" width="768" height="432"></a></figure>
+</div></div>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Branding + Website package</title>
+        <author>
+            <name>Sarah Wilson</name>
+        </author>
+        <link href="https://sarahwilsonconsulting.github.io/publiiportfolio/lawncare-service-booking-site.html"/>
+        <id>https://sarahwilsonconsulting.github.io/publiiportfolio/lawncare-service-booking-site.html</id>
+        <media:content url="https://sarahwilsonconsulting.github.io/publiiportfolio/media/posts/2/Untitled-design.gif" medium="image" />
+
+        <updated>2026-07-21T12:54:24-04:00</updated>
+            <summary type="html">
+                <![CDATA[
+                        <img src="https://sarahwilsonconsulting.github.io/publiiportfolio/media/posts/2/Untitled-design.gif" alt="" />
+                    Lawncare Service Booking Site Marcus was getting by with a logo thrown together by his cousin. It got the job&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://sarahwilsonconsulting.github.io/publiiportfolio/media/posts/2/Untitled-design.gif" class="type:primaryImage" alt="" /></p>
+                <p>Lawncare Service Booking Site</p>
+<figure class="post__image"><img loading="lazy"  src="https://sarahwilsonconsulting.github.io/publiiportfolio/media/posts/2/Untitled-design-2.gif" alt="" width="1920" height="1080"></figure>
+<h3>Backstory: </h3>
+<div>
+<p>Marcus was getting by with a logo thrown together by his cousin. <span style="font-size: inherit;">It got the job done for the past 3 years and allowed him to start building his client base. </span><span style="font-size: inherit;">But now he’s wanting to bid for commercial clients and his current logo just wasn't cutting it…</span></p>
+<div>
+<p>He wants his branding to look professional and established for this next phase in business. And he needs a website that will start allowing him to book commercial contracts more frequently.</p>
+<p><strong>It's time for an upgrade so that his branding and website match the level of clientele he's seeking to work with.</strong></p>
+<p> </p>
+<h3>Branding:</h3>
+<p>I generally present 3-4 initial concepts for branding. This helps to drive the design direction to make sure that I really get to the essence of the design and create something that feels like "you". In this case the client was very happy during that first round. If there were design notes we would have done up to 2 more rounds of concepts to make sure we were on the same page.</p>
+<div class="gallery-wrapper"><div class="gallery" data-is-empty="false" data-translation="Add images" data-columns="3">
+<figure class="gallery__item"><a href="https://sarahwilsonconsulting.github.io/publiiportfolio/media/posts/2/gallery/Logo-Redesign.png" data-size="1080x1350"><img loading="lazy" src="https://sarahwilsonconsulting.github.io/publiiportfolio/media/posts/2/gallery/Logo-Redesign-thumbnail.png" alt="The client's initial logo design" width="768" height="960"></a>
+<figcaption>Client did not have a brand system in place, only an ai generated logo created by their younger cousin.</figcaption>
+</figure>
+<figure class="gallery__item"><a href="https://sarahwilsonconsulting.github.io/publiiportfolio/media/posts/2/gallery/Logo-Redesign2.png" data-size="1080x1350"><img loading="lazy" src="https://sarahwilsonconsulting.github.io/publiiportfolio/media/posts/2/gallery/Logo-Redesign2-thumbnail.png" alt="I present 3-4 design concepts" width="768" height="960"></a>
+<figcaption>During these revision rounds we narrow down the design to something that feels intentional and aligned with the business owner's vision.</figcaption>
+</figure>
+<figure class="gallery__item"><a href="https://sarahwilsonconsulting.github.io/publiiportfolio/media/posts/2/gallery/Logo-Redesign3.png" data-size="1080x1350"><img loading="lazy" src="https://sarahwilsonconsulting.github.io/publiiportfolio/media/posts/2/gallery/Logo-Redesign3-thumbnail.png" alt="We have a winner!" width="768" height="960"></a>
+<figcaption>Client loved the design so we moved forward with crafting a system around it. Color palette, different variations, font selection, and of course a brand guide.</figcaption>
+</figure>
+<figure class="gallery__item"><a href="https://sarahwilsonconsulting.github.io/publiiportfolio/media/posts/2/gallery/Logo-Redesign4.png" data-size="1080x1350"><img loading="lazy" src="https://sarahwilsonconsulting.github.io/publiiportfolio/media/posts/2/gallery/Logo-Redesign4-thumbnail.png" alt="" width="768" height="960"></a></figure>
+<figure class="gallery__item"><a href="https://sarahwilsonconsulting.github.io/publiiportfolio/media/posts/2/gallery/Logo-Redesign5.png" data-size="1080x1350"><img loading="lazy" src="https://sarahwilsonconsulting.github.io/publiiportfolio/media/posts/2/gallery/Logo-Redesign5-thumbnail.png" alt="" width="768" height="960"></a></figure>
+<figure class="gallery__item"><a href="https://sarahwilsonconsulting.github.io/publiiportfolio/media/posts/2/gallery/Logo-Redesign6.png" data-size="1080x1350"><img loading="lazy" src="https://sarahwilsonconsulting.github.io/publiiportfolio/media/posts/2/gallery/Logo-Redesign6-thumbnail.png" alt="" width="768" height="960"></a></figure>
+</div></div>
+<p> </p>
+<h3>Website Design</h3>
+<p>After branding is clarified I move on to the website design. Marcus wanted something that was professional,  clean and easy to navigate. This website features 4 main pages as shown in the navigation. There was also an <strong>add-on</strong> for local SEO. I built out 5 additional pages, a specific page dedicated to each city that they service to ensure they are more easily found by potential local clients.</p>
+</div>
+</div>
+<div class="gallery-wrapper"><div class="gallery" data-is-empty="false" data-translation="Add images" data-columns="1">
+<figure class="gallery__item"><a href="https://sarahwilsonconsulting.github.io/publiiportfolio/media/posts/2/gallery/Screenshot-2026-07-20-140049-3.png" data-size="2040x1231"><img loading="lazy" src="https://sarahwilsonconsulting.github.io/publiiportfolio/media/posts/2/gallery/Screenshot-2026-07-20-140049-3-thumbnail.png" alt="" width="768" height="463"></a></figure>
+<figure class="gallery__item"><a href="https://sarahwilsonconsulting.github.io/publiiportfolio/media/posts/2/gallery/Screenshot-2026-07-20-140137-3.png" data-size="2062x1189"><img loading="lazy" src="https://sarahwilsonconsulting.github.io/publiiportfolio/media/posts/2/gallery/Screenshot-2026-07-20-140137-3-thumbnail.png" alt="" width="768" height="443"></a></figure>
+</div></div>
+<div class="gallery-wrapper"><div class="gallery" data-is-empty="false" data-translation="Add images" data-columns="3">
+<figure class="gallery__item"><a href="https://sarahwilsonconsulting.github.io/publiiportfolio/media/posts/2/gallery/Screenshot-2026-07-20-140147.png" data-size="2254x1326"><img loading="lazy" src="https://sarahwilsonconsulting.github.io/publiiportfolio/media/posts/2/gallery/Screenshot-2026-07-20-140147-thumbnail.png" alt="" width="768" height="452"></a></figure>
+<figure class="gallery__item"><a href="https://sarahwilsonconsulting.github.io/publiiportfolio/media/posts/2/gallery/Screenshot-2026-07-20-140201.png" data-size="2587x1276"><img loading="lazy" src="https://sarahwilsonconsulting.github.io/publiiportfolio/media/posts/2/gallery/Screenshot-2026-07-20-140201-thumbnail.png" alt="" width="768" height="379"></a></figure>
+<figure class="gallery__item"><a href="https://sarahwilsonconsulting.github.io/publiiportfolio/media/posts/2/gallery/Screenshot-2026-07-20-140209.png" data-size="2779x1204"><img loading="lazy" src="https://sarahwilsonconsulting.github.io/publiiportfolio/media/posts/2/gallery/Screenshot-2026-07-20-140209-thumbnail.png" alt="" width="768" height="333"></a></figure>
+<figure class="gallery__item"><a href="https://sarahwilsonconsulting.github.io/publiiportfolio/media/posts/2/gallery/Screenshot-2026-07-20-140218.png" data-size="2365x1363"><img loading="lazy" src="https://sarahwilsonconsulting.github.io/publiiportfolio/media/posts/2/gallery/Screenshot-2026-07-20-140218-thumbnail.png" alt="" width="768" height="443"></a></figure>
+<figure class="gallery__item"><a href="https://sarahwilsonconsulting.github.io/publiiportfolio/media/posts/2/gallery/Screenshot-2026-07-20-140230.png" data-size="2323x1210"><img loading="lazy" src="https://sarahwilsonconsulting.github.io/publiiportfolio/media/posts/2/gallery/Screenshot-2026-07-20-140230-thumbnail.png" alt="" width="768" height="400"></a></figure>
+<figure class="gallery__item"><a href="https://sarahwilsonconsulting.github.io/publiiportfolio/media/posts/2/gallery/Screenshot-2026-07-20-140238.png" data-size="2376x1147"><img loading="lazy" src="https://sarahwilsonconsulting.github.io/publiiportfolio/media/posts/2/gallery/Screenshot-2026-07-20-140238-thumbnail.png" alt="" width="768" height="371"></a></figure>
+<figure class="gallery__item"><a href="https://sarahwilsonconsulting.github.io/publiiportfolio/media/posts/2/gallery/Screenshot-2026-07-20-140315.png" data-size="2059x1141"><img loading="lazy" src="https://sarahwilsonconsulting.github.io/publiiportfolio/media/posts/2/gallery/Screenshot-2026-07-20-140315-thumbnail.png" alt="" width="768" height="426"></a></figure>
+</div></div>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Branding + Website Package</title>
+        <author>
+            <name>Sarah Wilson</name>
+        </author>
+        <link href="https://sarahwilsonconsulting.github.io/publiiportfolio/custom-website-with-ecommerce-functionality.html"/>
+        <id>https://sarahwilsonconsulting.github.io/publiiportfolio/custom-website-with-ecommerce-functionality.html</id>
+        <media:content url="https://sarahwilsonconsulting.github.io/publiiportfolio/media/posts/1/Becca-Wingrove.gif" medium="image" />
+
+        <updated>2026-07-17T16:49:34-04:00</updated>
+            <summary type="html">
+                <![CDATA[
+                        <img src="https://sarahwilsonconsulting.github.io/publiiportfolio/media/posts/1/Becca-Wingrove.gif" alt="Custom Website With Ecommerce Functionality" />
+                    Custom Website With Ecommerce Functionality Custom branding that is used on social media, digital products, and a website. The website&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://sarahwilsonconsulting.github.io/publiiportfolio/media/posts/1/Becca-Wingrove.gif" class="type:primaryImage" alt="Custom Website With Ecommerce Functionality" /></p>
+                <p>Custom Website With Ecommerce Functionality</p>
+<div class="gallery-wrapper"><div class="gallery" data-is-empty="false" data-translation="Add images" data-columns="2">
+<figure class="gallery__item"><a href="https://sarahwilsonconsulting.github.io/publiiportfolio/media/posts/1/gallery/Becca-Wingrove.gif" data-size="1920x1080"><img loading="lazy" src="https://sarahwilsonconsulting.github.io/publiiportfolio/media/posts/1/gallery/Becca-Wingrove.gif" alt="A website and and custom branding crafted for a coach and influencer"></a>
+<figcaption>Custom branding that is used on social media, digital products, and a website. The website features ecommerce functionality to sell and deliver digital product ebook.</figcaption>
+</figure>
+<figure class="gallery__item"><a href="https://sarahwilsonconsulting.github.io/publiiportfolio/media/posts/1/gallery/branding.jpg" data-size="1920x1080"><img loading="lazy" src="https://sarahwilsonconsulting.github.io/publiiportfolio/media/posts/1/gallery/branding-thumbnail.jpg" alt="Branding for a coach and influencer" width="768" height="432"></a>
+<figcaption>Custom logo, Alternative versions of logo for different spaces and use-cases, Custom color palette to be used for social media, website, and other branded materials</figcaption>
+</figure>
+<figure class="gallery__item"><a href="https://sarahwilsonconsulting.github.io/publiiportfolio/media/posts/1/gallery/hero.jpg" data-size="1080x714"><img loading="lazy" src="https://sarahwilsonconsulting.github.io/publiiportfolio/media/posts/1/gallery/hero-thumbnail.jpg" alt="" width="768" height="508"></a></figure>
+<figure class="gallery__item"><a href="https://sarahwilsonconsulting.github.io/publiiportfolio/media/posts/1/gallery/features-trust-information.png" data-size="1080x720"><img loading="lazy" src="https://sarahwilsonconsulting.github.io/publiiportfolio/media/posts/1/gallery/features-trust-information-thumbnail.png" alt="" width="768" height="512"></a></figure>
+<figure class="gallery__item"><a href="https://sarahwilsonconsulting.github.io/publiiportfolio/media/posts/1/gallery/breakout-quote-or-testimonial.jpg" data-size="1080x379"><img loading="lazy" src="https://sarahwilsonconsulting.github.io/publiiportfolio/media/posts/1/gallery/breakout-quote-or-testimonial-thumbnail.jpg" alt="" width="768" height="270"></a></figure>
+<figure class="gallery__item"><a href="https://sarahwilsonconsulting.github.io/publiiportfolio/media/posts/1/gallery/the-offer-and-cta.jpg" data-size="1080x510"><img loading="lazy" src="https://sarahwilsonconsulting.github.io/publiiportfolio/media/posts/1/gallery/the-offer-and-cta-thumbnail.jpg" alt="" width="768" height="363"></a></figure>
+<figure class="gallery__item"><a href="https://sarahwilsonconsulting.github.io/publiiportfolio/media/posts/1/gallery/shopping.jpg" data-size="1080x825"><img loading="lazy" src="https://sarahwilsonconsulting.github.io/publiiportfolio/media/posts/1/gallery/shopping-thumbnail.jpg" alt="" width="768" height="587"></a></figure>
+</div></div>
+            ]]>
+        </content>
+    </entry>
+</feed>
